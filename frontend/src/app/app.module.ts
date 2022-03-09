@@ -22,6 +22,7 @@ import {MatTableModule} from '@angular/material/table';
 import { ScheduleComponent } from './pages/schedule/schedule.component';
 import { MatCardModule } from '@angular/material/card';
 import {MatTreeModule} from '@angular/material/tree';
+import { AdminComponent } from './pages/admin/admin/admin.component';
 
 
 const routes: Routes = [
@@ -32,6 +33,7 @@ const routes: Routes = [
   { path: "lectures", component: LecturesComponent},
   { path: "hof", component: HofComponent},
   { path: "schedule", component: ScheduleComponent},
+  { path: "admin/info/v1", component: AdminComponent}
 ];
 
 @NgModule({
@@ -47,6 +49,7 @@ const routes: Routes = [
     LecturesComponent,
     HofComponent,
     ScheduleComponent,
+    AdminComponent
   ],
   imports: [
     BrowserModule,
