@@ -79,9 +79,7 @@ const SCHEDULE_DATA_FOR_TABLE: (ScheduleElemForTable )[] = [ // | WeekDivider
   {position: 1, name: 'Shared State Messaging', type:'Lecture', date: '3/10/2022', isDivider: false, isDescription:false},
 
   {position: 1, name: 'Due: Homework 9', type:'Homework', date: '3/8/2022', isDivider: false, isDescription:false},
-  {position: 1, name: 'Release Homework 11 (spawning a single thread to do a task)', type:'Homework', date: '3/8/2022', isDivider: false, isDescription:false},
-  {position: 1, name: 'Due: Homework 10', type:'Homework', date: '3/10/2022', isDivider: false, isDescription:false},
-  {position: 1, name: 'Release Homework 12 (thread messaging and thread move)', type:'Homework', date: '3/10/2022', isDivider: false, isDescription:false},
+  {position: 1, name: 'Due: Homework 10', type:'Homework', date: '3/25/2022', isDivider: false, isDescription:false},
 
   {position: 1, name:'Week 8.5', type:'', date: '', isDivider: true, isDescription:false},
   {position: 1, name:'Spring break!', type:'', date: '', isDivider: false, isDescription:true},
@@ -89,9 +87,6 @@ const SCHEDULE_DATA_FOR_TABLE: (ScheduleElemForTable )[] = [ // | WeekDivider
   {position: 1, name:'Week 9', type:'', date: '', isDivider: true, isDescription:false},
   {position: 1, name: 'Intro to ML', type:'Lecture', date: '3/22/2022', isDivider: false, isDescription:false},
   {position: 1, name: 'Final Project Kickoff', type:'Final Project', date: '3/24/2022', isDivider: false, isDescription:false},
-
-  {position: 1, name: 'Due: Homework 11', type:'Homework', date: '3/22/2022', isDivider: false, isDescription:false},
-  {position: 1, name: 'Due: Homework 12', type:'Homework', date: '3/24/2022', isDivider: false, isDescription:false},
   
   {position: 1, name: 'Due: MP3', type:'MP', date: '3/25/2022', isDivider: false, isDescription:false},
 
