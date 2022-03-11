@@ -208,6 +208,21 @@
           }
         ]
       }
+      ,
+      {
+        "lectureID": "14",
+        "title": "Lecture 14",
+        "date": "",
+        "slides": "",
+        "video": [
+          {
+            "title" : "Shared State & Final Project - CS 128 Honors Lecture 14",
+            "link" : "https://www.youtube.com/embed/Uu6xnAfYiaM",
+            "msg" : "CS 128 Honors is the Honors Add-on course for CS 128 at the University of Illinois Urbana-Champaign. This course teaches Rust, with a focus on topics such as concurrency, thread safety, functional programming, and how Rust does OOP.",
+            "slides": "lecture14.pdf"
+          }
+        ]
+      }
     ]
   }
   
